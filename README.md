@@ -38,6 +38,6 @@ For each problem, I aim to:
 ## Connect With Me
 
 Let's collaborate on problem-solving!
-- LeetCode Profile: [[Your LeetCode Profile URL](https://leetcode.com/u/tanushrisukhwal/)]
+- LeetCode Profile: [[My LeetCode Profile URL](https://leetcode.com/u/tanushrisukhwal/)]
 
 ---
